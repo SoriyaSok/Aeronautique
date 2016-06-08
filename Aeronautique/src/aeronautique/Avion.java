@@ -33,9 +33,9 @@ public class Avion {
 
 	//------------------ GETTERS et SETTERS ------------------------
 
-	/*public int getNumAv() {
+	public int getNumAv() {
 		return numAv;
-	}*/
+	}
 
 	/*public void setNumAv(int numAv) {
 		this.numAv = numAv;
