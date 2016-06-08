@@ -33,13 +33,13 @@ public class Avion {
 
 	//------------------ GETTERS et SETTERS ------------------------
 
-	public int getNumAv() {
+	/*public int getNumAv() {
 		return numAv;
-	}
+	}*/
 
-	public void setNumAv(int numAv) {
+	/*public void setNumAv(int numAv) {
 		this.numAv = numAv;
-	}
+	}*/
 
 	public String getNomAv() {
 		return nomAv;
