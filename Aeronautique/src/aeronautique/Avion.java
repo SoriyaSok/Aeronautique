@@ -23,7 +23,7 @@ public class Avion {
 		this.nomAv = nomAv;
 		this.capacite = capacite;
 		this.loc = loc;
-		this.enPlus=15;
+		this.enPlus=27;
 	}
 
 	//---------- méthode toString : clic droit > source> generate toString -----------
