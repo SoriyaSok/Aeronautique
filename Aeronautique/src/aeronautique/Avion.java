@@ -6,6 +6,7 @@ public class Avion {
 	private String nomAv;
 	private int capacite;
 	private String loc;
+	private int enPlus;
 
 
 	//---------- constructeur d'avion 
@@ -22,6 +23,7 @@ public class Avion {
 		this.nomAv = nomAv;
 		this.capacite = capacite;
 		this.loc = loc;
+		this.enPlus=27;
 	}
 
 	//---------- méthode toString : clic droit > source> generate toString -----------
